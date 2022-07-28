@@ -17,7 +17,7 @@
 
 ## Использование
 
-``` javascript
-console.log('message')
+```javascript
+console.log('message');
 ```
 
