@@ -17,7 +17,7 @@
 
 ## Использование
 
-``` jacascript
+``` javascript
 console.log('message')
 ```
 
